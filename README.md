@@ -1,2 +1,2 @@
 # hello-world
-I am ding a thing!
+I am doing a thing!
